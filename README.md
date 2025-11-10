@@ -1,6 +1,7 @@
 # My First Repo!
 
 Learning and practicing version control!
+**Edited by Tomas Vasquez — testing pull request workflow.**
 
 ## Setup
 
@@ -54,3 +55,5 @@ Run tests:
 ```sh
 pytest
 ```
+
+Tomas Vasquez Quality Control
