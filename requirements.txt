@@ -17,9 +17,13 @@ flask # <--- ADD FOR WEB APP
 # using this to find and run our tests:
 pytest
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 #web app
 flask 
+=======
+pytest-cov
+>>>>>>> Stashed changes
 =======
 pytest-cov
 >>>>>>> Stashed changes
