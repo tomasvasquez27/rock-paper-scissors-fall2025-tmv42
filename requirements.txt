@@ -1,3 +1,29 @@
 # this is the "requirements.txt" file...
 
+python-dotenv
+
+pandas
+
+requests
+
+plotly
+
+sendgrid==6.6.0
+
+flask # <--- ADD FOR WEB APP
+#gunicorn
+
+
+# using this to find and run our tests:
 pytest
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+
+#web app
+flask 
+=======
+pytest-cov
+>>>>>>> Stashed changes
+=======
+pytest-cov
+>>>>>>> Stashed changes
